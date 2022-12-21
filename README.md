@@ -20,15 +20,15 @@ This project main focus is to take advantage of the customization provided by th
 
 ### Content Images
 
-<!-- <p align="center">
-    <img src="https://github.com/mhd-danish/porfolio_food_vision/blob/main/images/models.png" alt="Pre-Trained CNN Models">
-</p> -->
+<p align="center">
+    <img src="https://github.com/mhd-danish/portfolio_neural_style_transfer/blob/main/extras/contents.png">
+</p>
 
 ### Style Images
 
-<!-- <p align="center">
-    <img src="https://github.com/mhd-danish/porfolio_food_vision/blob/main/images/models.png" alt="Pre-Trained CNN Models">
-</p> -->
+<p align="center">
+    <img src="https://github.com/mhd-danish/portfolio_neural_style_transfer/blob/main/extras/styles.png">
+</p>
 
 ## Example
 
@@ -36,15 +36,15 @@ Let's take one example to show how the neural style transfer actually works.
 
 ### Content Image
 
-<!-- <p align="center">
-    <img src="https://github.com/mhd-danish/porfolio_food_vision/blob/main/images/models.png" alt="Pre-Trained CNN Models">
-</p> -->
+<p align="center">
+    <img width="200" height="200" src="https://github.com/mhd-danish/portfolio_neural_style_transfer/blob/main/data/content_images/content_img_6.jpg">
+</p>
 
 ### Style Image
 
-<!-- <p align="center">
-    <img src="https://github.com/mhd-danish/porfolio_food_vision/blob/main/images/models.png" alt="Pre-Trained CNN Models">
-</p> -->
+<p align="center">
+    <img width="200" height="200" src="https://github.com/mhd-danish/portfolio_neural_style_transfer/blob/main/data/style_images/style_img_2.jpg">
+</p>
 
 ### Generation
 
