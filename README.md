@@ -37,17 +37,17 @@ Let's take one example to show how the neural style transfer actually works.
 ### Content Image
 
 <p align="center">
-    <img width="200" height="200" src="https://github.com/mhd-danish/portfolio_neural_style_transfer/blob/main/data/content_images/content_img_6.jpg">
+    <img width="450" height="450" src="https://github.com/mhd-danish/portfolio_neural_style_transfer/blob/main/extras/ex_content.png">
 </p>
 
 ### Style Image
 
 <p align="center">
-    <img width="200" height="200" src="https://github.com/mhd-danish/portfolio_neural_style_transfer/blob/main/data/style_images/style_img_2.jpg">
+    <img width="450" height="450" src="https://github.com/mhd-danish/portfolio_neural_style_transfer/blob/main/extras/ex_style.png">
 </p>
 
 ### Generation
 
-<!-- <p align="center">
-    <img src="https://github.com/mhd-danish/porfolio_food_vision/blob/main/images/models.png" alt="Pre-Trained CNN Models">
-</p> -->
+<p align="center">
+    <img src="https://github.com/mhd-danish/portfolio_neural_style_transfer/blob/main/Results/style_transfer_6_2.gif"
+</p>
